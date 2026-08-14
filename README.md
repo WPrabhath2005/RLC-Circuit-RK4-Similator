@@ -18,4 +18,3 @@ An interactive, web-based RLC circuit simulator built with Python and Streamlit.
 1. Clone this repository.
 2. Install dependencies: `pip install -r requirements.txt`
 3. Run the application: `streamlit run app.py`
-4.
